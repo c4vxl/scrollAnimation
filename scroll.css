@@ -1,0 +1,9 @@
+.scroll_animation_enabled {
+    filter: blur(5px);
+    transform: translateX(200%) scale(0);
+    transition: 1s;
+}
+.scroll_animation_enabled.scroll_animation_inviewport {
+    transform: translateX(0%) scale(1);
+    filter: none;
+}
