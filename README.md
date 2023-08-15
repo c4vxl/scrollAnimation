@@ -7,7 +7,7 @@ This repository contains code to enable scroll animations for HTML elements. The
 
 ## Usage
 
-1. Clone the files `scroll.js` ans `scroll.css` to your project.
+1. Clone the files `scroll.js` and `scroll.css` to your project.
 2. Import the files in your html file as shown below:
    ```html
    <script defer src="scroll.js"></script>
